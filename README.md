@@ -1,1 +1,1 @@
-Execution of iterstion based on number of threads
+Execution of iterations on number of threads
